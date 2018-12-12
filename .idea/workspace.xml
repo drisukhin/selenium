@@ -784,7 +784,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544646127455</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="CreateAccount_test">
+      <created>1544646570877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544646570877</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -861,7 +868,8 @@
     <MESSAGE value="CountriesAndGeoTest" />
     <MESSAGE value="Test_products" />
     <MESSAGE value="Homework-test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework-test" />
+    <MESSAGE value="CreateAccount_test" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreateAccount_test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
