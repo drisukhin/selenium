@@ -23,7 +23,7 @@ public void main() throws InterruptedException {
 
         driver.get("http://localhost/litecart/en/");
 
-    String email="spinoza50@gbm.com";
+    String email="spinoza40@gbm.com";
     String password="bobzen1823";
 
     CreateAccount(email,password);
@@ -55,7 +55,7 @@ private void CreateAccount(String email, String password){
     zone.selectByVisibleText("California");
 
     driver.findElement(By.name("email")).sendKeys(email);
-    driver.findElement(By.name("phone")).sendKeys("+18452245869");
+    driver.findElement(By.name("phone")).sendKeys("+1213589630120");
     driver.findElement(By.name("password")).sendKeys(password);
     driver.findElement(By.name("confirmed_password")).sendKeys(password);
     driver.findElement(By.name("create_account")).click();
