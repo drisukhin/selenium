@@ -23,7 +23,7 @@ public void main() throws InterruptedException {
 
         driver.get("http://localhost/litecart/en/");
 
-    String email="blowd90@prd.com";
+    String email = System.currentTimeMillis() / 1000L + "@testmail.com";
     String password="bobzen1823";
 
     CreateAccount(email,password);

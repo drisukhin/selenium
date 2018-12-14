@@ -26,7 +26,7 @@
       <file leaf-file-name="Litecart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Litecart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="57">
               <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="Test_products.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test_products.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="171">
               <caret line="18" column="36" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,11 +51,11 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/CreateAccount_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2224#2225#0" expanded="true" />
-                <element signature="e#2329#2330#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+                <element signature="e#2366#2367#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -477,10 +477,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -510,6 +506,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -798,24 +798,31 @@
       <option name="project" value="LOCAL" />
       <updated>1544646683737</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Create">
+      <created>1544647250293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544647250293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CreateAccount_Test - 2018.12.12 at 22h 17m 12s.xml">
+    <history-entry file="CreateAccount_Test - 2018.12.14 at 17h 12m 59s.xml">
       <configuration name="CreateAccount_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount_Test - 2018.12.12 at 22h 20m 20s.xml">
+    <history-entry file="CreateAccount_Test - 2018.12.14 at 17h 13m 28s.xml">
       <configuration name="CreateAccount_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount_Test - 2018.12.12 at 22h 20m 56s.xml">
+    <history-entry file="CreateAccount_Test - 2018.12.14 at 17h 14m 15s.xml">
       <configuration name="CreateAccount_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount_Test - 2018.12.12 at 22h 28m 52s.xml">
+    <history-entry file="CreateAccount_Test - 2018.12.14 at 17h 14m 32s.xml">
       <configuration name="CreateAccount_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CreateAccount_Test_CreateAccount - 2018.12.12 at 22h 11m 29s.xml">
-      <configuration name="CreateAccount_Test.CreateAccount" configurationId="JUnit" />
+    <history-entry file="CreateAccount_Test - 2018.12.14 at 17h 14m 49s.xml">
+      <configuration name="CreateAccount_Test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CreateAccount_Test_CreateAccount - 2018.12.12 at 22h 12m 02s.xml">
       <configuration name="CreateAccount_Test.CreateAccount" configurationId="JUnit" />
@@ -877,7 +884,8 @@
     <MESSAGE value="CreateAccount_test" />
     <MESSAGE value="Create_account" />
     <MESSAGE value="Homework-test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework-test" />
+    <MESSAGE value="Create" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -901,6 +909,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Litecart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test_products.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="82" lean-forward="false" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CreateAccount_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2366#2367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Litecart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1014,7 +1064,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Litecart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="57">
           <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1024,7 +1074,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test_products.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="171">
           <caret line="18" column="36" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1035,11 +1085,11 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/CreateAccount_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2224#2225#0" expanded="true" />
-            <element signature="e#2329#2330#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2366#2367#0" expanded="true" />
           </folding>
         </state>
       </provider>
