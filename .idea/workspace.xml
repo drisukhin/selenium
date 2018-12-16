@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5316a961-036c-4a52-aea5-1dd9aa5699ab" name="Default" comment="Create">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/WebDr_Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/PageChek.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/MyFirstTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CreateAccount_Test.java" afterPath="$PROJECT_DIR$/src/test/java/CreateAccount_Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test_products.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -40,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebDr_Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WebDr_Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/WebDr_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1407">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3182#3183#0" expanded="true" />
@@ -61,12 +59,24 @@
       <file leaf-file-name="CreateAccount_Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CreateAccount_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
+            <state relative-caret-position="361">
               <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2316#2317#0" expanded="true" />
                 <element signature="e#2421#2422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageChek.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageChek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -470,6 +480,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Litecart.java" />
         <option value="$PROJECT_DIR$/src/test/java/AddProduct_Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/WebDr_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageChek.java" />
       </list>
     </option>
   </component>
@@ -551,7 +562,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WebDr_Test">
+  <component name="RunManager" selected="JUnit.PageChek">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -633,13 +644,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="Test_products" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PageChek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test_products" />
+      <option name="MAIN_CLASS_NAME" value="PageChek" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -734,19 +745,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Test_products" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.AddProduct_Test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.mainTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.WebDr_Test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AddProduct_Test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.mainTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.WebDr_Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PageChek" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.WebDr_Test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AddProduct_Test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.mainTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Test_products" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PageChek" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.WebDr_Test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AddProduct_Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AddProduct_Test.mainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -834,13 +845,17 @@
       <option name="project" value="LOCAL" />
       <updated>1544800519125</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="WebDriverWait-test">
+      <created>1544987884976</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544987884976</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddProduct_Test - 2018.12.16 at 20h 39m 01s.xml">
-      <configuration name="AddProduct_Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AddProduct_Test - 2018.12.16 at 21h 06m 58s.xml">
       <configuration name="AddProduct_Test" configurationId="JUnit" />
     </history-entry>
@@ -862,8 +877,11 @@
     <history-entry file="AddProduct_Test_test - 2018.12.16 at 21h 08m 01s.xml">
       <configuration name="AddProduct_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_products_initTestData - 2018.12.15 at 12h 16m 16s.xml">
-      <configuration name="Test_products.initTestData" configurationId="JUnit" />
+    <history-entry file="PageChek - 2018.12.16 at 21h 22m 56s.xml">
+      <configuration name="PageChek" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PageChek - 2018.12.16 at 21h 23m 11s.xml">
+      <configuration name="PageChek" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WebDr_Test - 2018.12.16 at 21h 17m 02s.xml">
       <configuration name="WebDr_Test" configurationId="JUnit" />
@@ -871,7 +889,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -886,7 +903,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -915,7 +932,8 @@
     <MESSAGE value="Homework-test" />
     <MESSAGE value="Create" />
     <MESSAGE value="Create_new" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create_new" />
+    <MESSAGE value="WebDriverWait-test" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebDriverWait-test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1267,18 +1285,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CreateAccount_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2316#2317#0" expanded="true" />
-            <element signature="e#2421#2422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1350,7 +1356,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/WebDr_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1407">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3182#3183#0" expanded="true" />
@@ -1359,6 +1365,28 @@
             <element signature="e#3384#3385#0" expanded="true" />
             <element signature="e#3446#3447#0" expanded="true" />
             <element signature="e#3508#3509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CreateAccount_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2316#2317#0" expanded="true" />
+            <element signature="e#2421#2422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageChek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
