@@ -1,6 +1,7 @@
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -24,6 +25,8 @@ public void main() throws InterruptedException {
         driver.get("http://localhost/litecart/en/");
 
     String email = System.currentTimeMillis() / 1000L + "@testmail.com";
+
+
     String password="bobzen1823";
 
     CreateAccount(email,password);
